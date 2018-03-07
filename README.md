@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/cazzaroonie/cazzaroonie.Gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<script src="https://gist.github.com/brattonc/5e5ce9beee483220e2f6.js"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
